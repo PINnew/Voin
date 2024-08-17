@@ -37,11 +37,3 @@ print(war1.hair_color)
 
 
 
-
-
-
-
-
-
-
-
